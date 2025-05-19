@@ -1,4 +1,4 @@
-# 📄 HTML Practice by Harsh Pandey
+# 📄 HTML Practice by Me
 
 Welcome to my HTML learning repository! This repo contains all my self-practice files created while learning HTML from scratch. I'm documenting my journey to help both myself and others who are also beginning web development.
 
